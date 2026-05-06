@@ -1,5 +1,4 @@
-# Module 12 Assignment: Business Analytics Fundamentals and Applications
-# GreenGrocer Data Analysis
+#This repository contains my work for Module 12 using Python to analyze GreenGrocer business data. I practiced descriptive, diagnostic, predictive, and prescriptive analytics with pandas, NumPy, and visualizations. The project produces insights on sales, customers, store performance, and business recommendations. Module 12 Assignment: Business Analytics Fundamentals and Applications GreenGrocer Data Analysis
 
 # Import required libraries
 import pandas as pd
