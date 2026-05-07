@@ -1,4 +1,10 @@
-# Module 11 Assignment: Data Visualization with Matplotlib
+# # Assignment 11 This repository contains my work for Assignment 11.
+
+## Files Included
+#- main.py
+
+## What I Practiced
+#In this assignment, I practiced working with Python data visualization using Matplotlib. I built multiple types of charts including line plots, bar charts, scatter plots, histograms, pie charts, box plots, and dashboards. I also used Pandas and NumPy to generate and analyze a simulated retail dataset with sales, advertising spend, locations, and product categories.
 # SunCoast Retail Visual Analysis
 
 import pandas as pd
