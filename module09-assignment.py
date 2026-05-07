@@ -1,3 +1,11 @@
+## Assignment 12 This repository contains my work for Assignment 12.
+
+## Files Included
+#- main.py
+
+## What I Practiced
+#In this assignment, I practiced data cleaning and preprocessing using Python. I worked with a messy customer dataset and learned how to handle missing values, fix incorrect data types, standardize text formats, remove duplicates, and create new derived features. I also practiced using Pandas for data manipulation and generating business insights from cleaned data.
+
 import pandas as pd
 import numpy as np
 from datetime import datetime
