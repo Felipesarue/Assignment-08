@@ -1,4 +1,10 @@
-# Module 11 Assignment: Data Visualization with Matplotlib
+# # Assignment 11 This repository contains my work for Assignment 11.
+
+## Files Included
+#- main.py (or notebook file with all Matplotlib visualizations)
+
+## What I Practiced
+#In this assignment, I practiced working with Python data visualization using Matplotlib, including time series plots, bar charts, scatter plots, histograms, pie charts, and dashboard creation. I also practiced using Pandas and NumPy to generate and analyze structured datasets.
 # SunCoast Retail Visual Analysis
 
 import pandas as pd
